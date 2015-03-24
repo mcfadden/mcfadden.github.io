@@ -16,12 +16,15 @@ img.rounded{
 }
 
 footer.footer{
-  position: fixed;
+  position: relative;
   bottom: 0;
   background: #fff;
   @include media-query(990px) {
     position: relative;
     background: none;
+    .description{
+      text-align: center;
+    }
     .social-media-list{
       text-align: right;
     }
@@ -41,9 +44,14 @@ body > .container{
 body.layout-default{
   padding-top: 50px;
   
-  div.cover-image{
+  div.cover-image-container{
+    width: 100%;
+    height: 200vh;
+    position: fixed;
+    top: 0;
+    z-index: -1;
     background-repeat: no-repeat;
-    background-attachment: fixed;
+    background-attachment: scroll;
     background-position: top;
     background-size: cover;
   }
@@ -102,6 +110,14 @@ body.layout-default{
   
   footer.footer{
     position: relative;
-    margin: 15px auto;
+    padding: 15px;
+    margin: 0 -15px;
+    @include media-query(990px) {
+      position: relative;
+      background: #FFF;
+      .social-media-list{
+        text-align: right;
+      }
+    }
   }
 }

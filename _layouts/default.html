@@ -7,21 +7,20 @@
 
     {% include header.html %}
 
+    {% if page.image %}
+      <div class="cover-image-container" style="background-image: url(/images/covers/{{ page.image }})"></div>
+    {% endif %}
     <div
       {% if page.image %}
         class="container-fluid cover-image"
-        style="background-image: url(/images/covers/{{ page.image }})"
       {% else %}
         class="container"
       {% endif %}
     >
-      {{ content }}
-    </div>
     
-    <div class="container">
+      {{ content }}
       {% include footer.html %}
     </div>
-
     
   </body>
 
