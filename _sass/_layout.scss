@@ -124,5 +124,16 @@ body.layout-default{
         text-align: right;
       }
     }
+    &.text-white{
+      background: none;
+      color: #FFF;
+      a{
+        color: #FFF;
+        text-decoration: underline;
+        &:hover{
+          color: #FFF;
+        };
+      }
+    }
   }
 }
