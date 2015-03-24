@@ -3,17 +3,26 @@
 
   {% include head.html %}
 
-  <body>
+  <body class="layout-default">
 
     {% include header.html %}
 
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
+    <div
+      {% if page.image %}
+        class="container-fluid cover-image"
+        style="background-image: url(/images/covers/{{ page.image }})"
+      {% else %}
+        class="container"
+      {% endif %}
+    >
+      {{ content }}
+    </div>
+    
+    <div class="container">
+      {% include footer.html %}
     </div>
 
-    {% include footer.html %}
+    
   </body>
 
 </html>

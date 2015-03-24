@@ -31,3 +31,77 @@ footer.footer{
 body > .container{
   margin-bottom: 80px;
 }
+
+.navbar{
+  .navbar-brand-image{
+    padding: 5px 15px;
+  }
+}
+
+body.layout-default{
+  padding-top: 50px;
+  
+  div.cover-image{
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: top;
+    background-size: cover;
+  }
+  
+  .post{
+    font-family: "Lora", serif;
+    font-size: 20px;
+    &.text-white{
+      color: #EEE;
+      a{
+        color: #EEE;
+        text-decoration: underline;
+        &:hover{
+          color: #FFF;
+        };
+      }
+    }
+    .post-header{
+      text-align: center;
+      margin: 12em auto;
+      .post-title{
+        font-weight: 700;
+      }
+      .post-meta{
+        font-size: .7em;
+      }
+    }
+    
+    .post-content{
+      margin: 3em 25%;
+      @include media-query(1280px) {
+        margin: 3em 15%;
+      }
+      @include media-query(1024px) {
+        margin: 3em 15%;
+      }
+      @include media-query(990px) {
+        margin: 3em 10%;
+      }
+      @include media-query(768px) {
+        margin: 3em 2%;
+      }
+      
+
+      p{
+        margin-bottom: 1.5em;
+      }
+      .caption{
+        font-size: 55%;
+        opacity: 0.5;
+        text-align: center;
+        padding: 1em;
+      }
+    }
+  }
+  
+  footer.footer{
+    position: relative;
+    margin: 15px auto;
+  }
+}
