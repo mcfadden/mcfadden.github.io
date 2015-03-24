@@ -1,0 +1,15 @@
+# Site settings
+title: Ben McFadden
+email:
+  user: ben
+  domain: mcfadden.io
+description: > 
+  I love to write software that solves real needs. You'll find a little bit
+  about me here as well as some articles I've written.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://ben.mcfadden.io" # the base hostname & protocol for your site
+twitter_username: therealmcfadden
+github_username:  mcfadden
+
+# Build settings
+markdown: kramdown
