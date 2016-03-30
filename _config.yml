@@ -13,3 +13,5 @@ github_username:  mcfadden
 
 # Build settings
 markdown: kramdown
+gems:
+ - jekyll-coffeescript
