@@ -7,7 +7,7 @@ permalink: open-sprinkler
 text_color: white
 ---
 
-There was a point in time where someone decided the optimal interface to control your sprinkler timer was a 12 position knob and two buttons. I'm not sure _what_ it's optimal for, but it's certainly not user experience. Perhaps it saved a nickle on the manufacturing costs.
+There was a point in time where someone decided the optimal interface to control your sprinkler timer was a 12 position knob and two buttons. I'm not sure _what_ it's optimal for, but it's certainly not user experience. Perhaps it saved a nickel on the manufacturing costs.
 
 When I bought my house I wanted to drastically change the landscaping in both the front and the back. One of the things this meant was that I would get the opportunity to install the irrigation system however I liked. In the end of the day, I might have overdone it.
 
@@ -31,7 +31,7 @@ It turns out, I'm not alone. There are tons of people who have made [projects](h
 
 While this is definitely heading in the right direction, I didn't have the time to reinvent the wheel on this round. A little bit more searching lead me to the [OpenSprinkler](http://www.opensprinkler.com).
 
-This was extremily appealing to me as even their [main product](https://opensprinkler.com/product/opensprinkler/) is just an Arduino with some custom software on it. I wanted something a little bit more flexible. And I really wanted to be able to write my code in Ruby. I love Ruby.
+This was extremely appealing to me as even their [main product](https://opensprinkler.com/product/opensprinkler/) is just an Arduino with some custom software on it. I wanted something a little bit more flexible. And I really wanted to be able to write my code in Ruby. I love Ruby.
 
 What I really wanted was something based on the RaspberryPi. A few months after I first came across OpenSprinkler they launched [OpenSprinkler Pi](https://opensprinkler.com/product/opensprinkler-pi/). It's exactly what it sounds like.  You provide a Raspberry Pi and they provide a daughter board that has 8 sprinkler zone outputs.
 
