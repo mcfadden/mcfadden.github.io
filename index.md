@@ -8,7 +8,7 @@ I love to write software that solves real needs.
 
 I'm currently working at [Forge Apps](http://forgeapps.com) as a Senior Developer. I've been here since 2012.
 
-I've worked on [some](http://ashes.io) [pretty](https://itunes.apple.com/us/app/john-piper-daily-devotional/id553049864?mt=8) [cool](http://lightstock.com) [projects](https://itunes.apple.com/us/app/ask-pastor-john/id606284215?mt=8) while I've been here.
+I've worked on [some](http://theworshipinitiative.com) [pretty](https://itunes.apple.com/us/app/john-piper-daily-devotional/id553049864?mt=8) [cool](http://lightstock.com) [projects](https://itunes.apple.com/us/app/ask-pastor-john/id606284215?mt=8) while I've been here.
 
 In 2013 I co-founded [Sermons.io](https://sermons.io/?utm_source=benmcfaddenio&utm_medium=link&utm_campaign=product_link). I think it's amazing. If you're a church you should definitely check it out.
 
@@ -25,4 +25,4 @@ a [lot](http://twitter.com/kvangork)
 [who](http://twitter.com/davidryount)
 [know](http://twitter.com/gordykeene)
 me.
-Feel free to reach out to them.
+Feel free to reach out to any of them.
