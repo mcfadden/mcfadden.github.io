@@ -29,6 +29,15 @@
           </a>
         </li>
         {% endif %}
+        
+        {% if site.linkedin_id %}
+        <li>
+          <a href="https://linkedin.com/in/{{ site.linkedin_id }}">
+            <i class="fa my-fa-lkin"></i>
+            <span class="username">{{ site.linkedin_id }}</span>
+          </a>
+        </li>
+        {% endif %}
       </ul>
     </div>
 
