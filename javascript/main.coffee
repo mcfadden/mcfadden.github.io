@@ -36,3 +36,10 @@ jQuery ->
     positionCoverImage()
     $(window).on "scroll", positionCoverImage
     $(window).on "resize", positionCoverImage
+
+  $('#imageModal').on 'show.bs.modal', (e)->
+    console.log("e")
+    console.log(e)
+    newSource = $(e.relatedTarget).find("img").attr('src')
+    console.log(newSource)
+    $('#imageModal .modal-body img').attr('src', newSource)

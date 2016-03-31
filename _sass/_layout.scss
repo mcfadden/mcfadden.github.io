@@ -9,6 +9,11 @@ img.rounded{
   border-radius: 100%;
 }
 
+img.rounded-rect{
+  border-radius: .5em;
+  border: 2px rgba(255,255,255, 0.5) solid;
+}
+
 .ead .domain{
   unicode-bidi: bidi-override;
   direction: rtl;
@@ -67,6 +72,9 @@ body.layout-default{
         &:hover{
           color: #FFF;
         };
+      }
+      .post-content .caption{
+        opacity: 1;
       }
     }
     &.cover-image{
