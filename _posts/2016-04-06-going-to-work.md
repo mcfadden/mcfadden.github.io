@@ -33,7 +33,7 @@ Likewise, having an end-of-day routine is important as well.
 ## Work Boundaries
 When you have no boundaries [you'll wind up intermixing your personal and work lives](http://www.slate.com/articles/business/the_ladder/2015/12/working_from_home_does_it_make_people_more_productive.html) so deeply that no work gets done yet you cannot get away from work.
 
-I have always struggled to leave work at work. My (very pateint) wife knows that I always have something about work on my mind, and I have to be dragged back into the moment at hand.
+I have always struggled to leave work at work. My (very patient) wife knows that I always have something about work on my mind, and I have to be dragged back into the moment at hand.
 
 The best thing that I have done to help in this area is have a [dedicated area where I do work, and only work](tiny-office). While you may not be able to have a separate building, you really do need at least a dedicated room. If you're trying to work from home from a desk in your bedroom you are going to struggle to keep your work and personal lives distinct.
 
@@ -47,4 +47,4 @@ My wife is at home with the kids and she does an amazing job at maintaining this
 Every morning I tell my family "I'm going to work" and every evening I tell them "I'm home."
 
 
-_In Part 3 of this series (Coming next week) I will discuss ways an employer can be a better remote employer._
+_In my next post (Coming next week) I will discuss ways an employer can be a better remote employer._
