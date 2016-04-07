@@ -141,8 +141,7 @@ It's been almost a year since I started working in my new office, and it's been 
 
 The inside is still unfinished, but I've added a lot including an [adjustable height desk](http://www.ikea.com/us/en/catalog/products/S49084965/), and a few shelves.
 
-<!-- Well, I haven't written it _yet_ -->
-<!--I've written more about what it's like working in a detached building, but still at home. If you work from home, or are interested in working from home, I suggest you give that a read.-->
+I've written more about what it's like working in a detached building, but still at home. If you work from home, or are interested in working from home, I suggest you [give that a read](going-to-work).
 
 <div class="modal fade" id="imageModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
   <div class="modal-dialog" role="document">
