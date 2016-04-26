@@ -47,4 +47,4 @@ My wife is at home with the kids and she does an amazing job at maintaining this
 Every morning I tell my family "I'm going to work" and every evening I tell them "I'm home."
 
 
-_In my next post (Coming next week) I will discuss ways an employer can be a better remote employer._
+_In a future post I will discuss ways an employer can be a better remote employer._
